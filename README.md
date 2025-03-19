@@ -68,6 +68,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Slonopitek/Slonopitek/refs/heads/main/dmitrij_vershinin-peak-en.png)
 
 
 
